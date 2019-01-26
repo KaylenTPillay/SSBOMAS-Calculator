@@ -20,3 +20,9 @@ The Super Simple BODMAS - Calculator is a simple console based BODMAS calculator
     ~~~~
     ssbc '1+1'
     ~~~~
+
+## Notes:
+
+A great tool for virtualizing your python environments is [virtualenv][1]. I would install and use it!
+
+[1]: https://virtualenv.pypa.io/en/latest/
